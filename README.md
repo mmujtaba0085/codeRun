@@ -14,7 +14,7 @@ The dataset consists of labeled retinal fundus images, categorized into 5 stages
 - 3: Severe
 - 4: Proliferative DR
 
-The dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/kushagratandon12/diabetic-retingent-by-balanced/data).
+The dataset can be downloaded from [Kaggle]([https://www.kaggle.com/datasets/kushagratandon12/diabetic-retingent-by-balanced/data](https://www.kaggle.com/datasets/kushagratandon12/diabetic-retinopathy-balanced/data)).
 
 ## Model Architecture
 The model used in this project is based on **MobileNetV2**, a lightweight and efficient convolutional neural network. The model was fine-tuned on the diabetic retinopathy dataset using **PyTorch**.
