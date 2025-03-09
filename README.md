@@ -1,4 +1,7 @@
 # codeRun
+
+## Here is the link to the [Demo](https://drive.google.com/file/d/1WvLnaoNE8Fcz_36GQW3MAKlOLmBOdr-f/view?usp=sharing) 
+
 # Diabetic Retinopathy Detection using MobileNetV2
 
 This repository contains the code and model for the **Infyma AI Hackathon 25'** project on **Diabetic Retinopathy Detection**. The goal of this project is to classify retinal images into different stages of diabetic retinopathy using a deep learning model.
@@ -33,6 +36,8 @@ The model achieved the following performance on the validation and test sets:
 - **Validation Accuracy:** 83.04%
 - **Test Accuracy:** 84%
 
+
+
 ### Classification Report (Test Set)
           precision    recall  f1-score   support
 
@@ -43,6 +48,8 @@ The model achieved the following performance on the validation and test sets:
        4       0.99      0.99      0.99      1000
 
 accuracy                           0.84      4971
+
+
 
 ## Requirements
 To run the code, you need the following dependencies:
